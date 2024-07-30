@@ -143,7 +143,7 @@ const int PREC_QD        = 212;
 const double LLL_DEF_DELTA        = 0.99;
 const double LLL_DEF_ETA          = 0.51;
 const double LLL_DEF_EPSILON      = 0.01;
-const int SIZE_RED_FAILURE_THRESH = 5;
+const int SIZE_RED_FAILURE_THRESH = 1;
 
 // Constraint: 1/2 < eta - theta
 const double HLLL_DEF_THETA = 0.001;
